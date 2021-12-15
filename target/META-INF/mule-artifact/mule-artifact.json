@@ -2,7 +2,7 @@
   "configs": [],
   "secureProperties": [],
   "redeploymentEnabled": true,
-  "name": "com.mycompany:retrievetravelontiproutesandschedule-sapi:1.0.0-SNAPSHOT",
+  "name": "com.mycompany:retrieveroutesndschedules-fastgo-sapi-new:1.0.0-SNAPSHOT",
   "minMuleVersion": "4.4.0",
   "requiredProduct": "MULE",
   "classLoaderModelLoaderDescriptor": {
